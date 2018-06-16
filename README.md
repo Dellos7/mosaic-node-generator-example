@@ -35,7 +35,7 @@ When execution ends, you will have your generated mosaic image inside the `outpu
 
 ## Input image ([`input.jpg`](https://github.com/Dellos7/mosaic-node-generator-example/blob/master/input.jpg))
 
-[<img src="https://github.com/Dellos7/mosaic-node-generator-example/raw/master/input.jpg" width="300" />](https://github.com/Dellos7/mosaic-node-generator-example/raw/master/input.jpg")
+[<img src="https://github.com/Dellos7/mosaic-node-generator-example/raw/master/input.jpg" width="300" />](https://github.com/Dellos7/mosaic-node-generator-example/raw/master/input.jpg)
 
 ## Outputs
 
