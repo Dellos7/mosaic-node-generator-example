@@ -1,0 +1,15 @@
+{
+  "name": "mosaic-node-generator-example",
+  "version": "1.0.0",
+  "description": "An example of use of the mosaic-node-generator package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "mosaic": "node index.js"
+  },
+  "dependencies": {
+    "mosaic-node-generator": "^1.1.3"
+  },
+  "author": "David López Castellote <david.lopez.castellote@gmail.com> (https://github.com/Dellos7)",
+  "license": "ISC"
+}
